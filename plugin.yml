@@ -1,0 +1,4 @@
+name: PortalWarning
+main: pro.mcmogaming.portalwarning.PortalWarning
+version: 1.0.1
+commands:        
